@@ -1,4 +1,5 @@
 version: 0.2
+image: mingc/android-build-box:latest
 
 phases:
   build:
